@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kenneth Louis
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning about PHP CodeIgniter Framework
+- 🌱 I’m currently learning about PHP Frameworks
 
 <!---
 kennethlouiz/kennethlouiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
